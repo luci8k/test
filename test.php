@@ -1,2 +1,5 @@
-test
-werjkhk+
+<?php 
+if (true) {
+	echo "test";
+}
+?>
